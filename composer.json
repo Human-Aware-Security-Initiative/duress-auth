@@ -1,0 +1,22 @@
+{
+    "name": "zigr/duress-auth",
+    "description": "Framework-independent PHP library for duress-aware authentication.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zigr\\DuressAuth\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Zigr\\DuressAuth\\Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "php": "^8.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.0"
+    }
+}

@@ -1,0 +1,42 @@
+# =======================================================================
+# Composer Dependencies
+# =======================================================================
+/vendor/
+
+# Automatically created by Composer if you use custom binary directories
+/bin/
+
+# Local configuration overrides and sensitive credentials
+.env
+.env.local
+.env.*.local
+
+# =======================================================================
+# Testing and Quality Assurance
+# =======================================================================
+/.phpunit.cache/
+.phpunit.result.cache
+/phpstan-result.cache
+/psalm-result.cache
+
+# =======================================================================
+# IDEs and Text Editors
+# =======================================================================
+# JetBrains / PHPStorm
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Sublime Text / Vim
+*.sublime-project
+*.sublime-workspace
+*.swp
+*~
+
+# =======================================================================
+# Operating System Files
+# =======================================================================
+.DS_Store
+Thumbs.db
