@@ -1,4 +1,4 @@
-# The Human-Aware Security Initiative (Zigr\OpenAI\DuressAuth)
+# [The Human-Aware Security Initiative](https://github.com/Human-Aware-Security-Initiative/duress-auth)
 
 > *"Безпека починається не тоді, коли все добре. Вона починається тоді, коли вже сталося найгірше."*
 

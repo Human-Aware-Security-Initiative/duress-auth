@@ -1,4 +1,4 @@
-# The Human-Aware Security Initiative (Zigr\OpenAI\DuressAuth)
+# [The Human-Aware Security Initiative](https://github.com/Human-Aware-Security-Initiative/duress-auth)
 
 > *"Security doesn't start when everything is good. It starts when the worst has already happened."*
 
